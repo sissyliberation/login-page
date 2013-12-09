@@ -15,4 +15,6 @@ Light backgrounds have dark text, and vice-versa.
 Demo
 -----------------
 
-You can view it [here](http://yvescourtois.com/login-page/signin.php).
+Sign in: [here](http://yvescourtois.com/login-page/signin.php).
+Sign up: [here](http://yvescourtois.com/login-page/signup.php).
+Both on same page: [here](http://yvescourtois.com/login-page/both.php).
